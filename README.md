@@ -1,6 +1,7 @@
 # nuxt-typescript-vuetify
 
-> My stylish Nuxt.js project
+> Nuxt.js 2.12.2
+> typescript 3.8.3 
 
 ## Build Setup
 
