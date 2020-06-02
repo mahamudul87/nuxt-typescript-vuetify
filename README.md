@@ -1,2 +1,2 @@
 # nuxt-typescript-vuetify
-Nuxt 2.9 Typescript andk Vuetify
+Nuxt 2.9 Typescript and Vuetify
